@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Freedev MDan👋</h1>
+<h1 align="center">👋 Hi, I’m web2/web3 fullstack dveloper👋</h1>
 
 
 <div style="">
