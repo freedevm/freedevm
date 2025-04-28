@@ -6,7 +6,7 @@
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Power-Howdy)
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 
-Web3 Engineer with 6+ expertise in developing decentralized applications and blockchain solutions. Skilled in Ethereum, Solidity, and smart contract development, I have implemented secure and scalable dApps that enhance user privacy. Experienced in integrating blockchain with traditional web systems, I lead projects that drive innovation and efficiency. Committed to exploring new technologies to deliver solutions that redefine user interactions with.
+Web3 Engineer with 9+ expertise in developing decentralized applications and blockchain solutions. Skilled in Ethereum, Solidity, and smart contract development, I have implemented secure and scalable dApps that enhance user privacy. Experienced in integrating blockchain with traditional web systems, I lead projects that drive innovation and efficiency. Committed to exploring new technologies to deliver solutions that redefine user interactions with.
 
 📫 You can reach me by telegram: [@freedevm](https://t.me/freedevm)
 
